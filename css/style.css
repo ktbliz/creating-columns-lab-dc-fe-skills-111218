@@ -48,7 +48,7 @@ img:hover {
 
 .column {
   float: left;
-  wdith: 32%;
+  width: 32%;
 }
 
 .clearfix:after { 
