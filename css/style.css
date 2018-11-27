@@ -49,7 +49,7 @@ img:hover {
 .column {
   float: left;
   display: inline;
-  width: 28%;
+  width: 32%;
 }
 
 .clearfix:after { 
