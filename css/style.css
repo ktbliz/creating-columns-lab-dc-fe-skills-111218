@@ -66,6 +66,7 @@ Line-height: 0;
   height: 100%;
   float: left;
   margin: 1%;
+  display: inline-block;
 }
 
 .med {
