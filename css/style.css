@@ -50,6 +50,15 @@ img:hover {
   float: left;
 }
 
+.clearfix:after { 
+Content: "."; 
+Display: block;  
+Clear: both; 
+Visibility: hidden; 
+Height: 0;  
+Line-height: 0; 
+}
+
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 
 /* create your tile classes! we recommend .small .med .large */
