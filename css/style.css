@@ -61,6 +61,11 @@ Height: 0;
 Line-height: 0; 
 }
 
+.small {
+  width: 100%;
+  height: 100%;
+}
+
 .med {
   width: 200%;
   height: 200%;
