@@ -47,7 +47,8 @@ img:hover {
 }
 
 .column {
-  float: left
+  float: left;
+  column: 32%;
 }
 
 .clearfix:after { 
